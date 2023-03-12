@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="465ae268-8275-4ec9-8b85-e7e00afbb1f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/xy/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/TestNg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/xy/service/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+            <state relative-caret-position="533">
+              <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/xy/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="440">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,68 +93,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xy" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xy" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestNG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lizhengstu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -165,7 +101,7 @@
     <property name="DefaultHtmlFileTemplate" value="XHTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1678633888936" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1678633889041" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -288,17 +224,11 @@
       <updated>1678496961282</updated>
       <workItem from="1678496964036" duration="7029000" />
       <workItem from="1678504067210" duration="2206000" />
-      <workItem from="1678624035949" duration="5973000" />
+      <workItem from="1678624035949" duration="6646000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestController_login - 2023.03.12 at 22h 45m 48s.xml">
-      <configuration name="TestController.login" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__提升学习巩固基础_Java接口自动化_workspace_lizhengstu_src_main_resources_TestNg_xml - 2023.03.12 at 22h 49m 28s.xml">
-      <configuration name="D:/提升学习巩固基础/Java接口自动化/workspace/lizhengstu/src/main/resources/TestNg.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestController_login - 2023.03.12 at 22h 51m 31s.xml">
       <configuration name="TestController.login" configurationId="TestNG" />
     </history-entry>
@@ -323,15 +253,20 @@
     <history-entry file="D__提升学习巩固基础_Java接口自动化_workspace_lizhengstu_src_main_resources_TestNg_xml - 2023.03.12 at 23h 08m 53s.xml">
       <configuration name="D:/提升学习巩固基础/Java接口自动化/workspace/lizhengstu/src/main/resources/TestNg.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__提升学习巩固基础_Java接口自动化_workspace_lizhengstu_src_main_resources_TestNg_xml - 2023.03.12 at 23h 10m 33s.xml">
+      <configuration name="D:/提升学习巩固基础/Java接口自动化/workspace/lizhengstu/src/main/resources/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__提升学习巩固基础_Java接口自动化_workspace_lizhengstu_src_main_resources_TestNg_xml - 2023.03.12 at 23h 11m 17s.xml">
+      <configuration name="D:/提升学习巩固基础/Java接口自动化/workspace/lizhengstu/src/main/resources/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15208000" />
+    <option name="totallyTimeSpent" value="15881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4941957" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4941957" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" sideWeight="0.5058043" side_tool="true" weight="0.25670242" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,7 +275,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10764872" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.57648724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -468,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/xy/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="440">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/xy/service/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+        <state relative-caret-position="533">
+          <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
